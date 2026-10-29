@@ -8,10 +8,6 @@
 
 <br><br>
 
-**Biomedical Engineering · Data Analysis · Artificial Intelligence**
-
-*Exploring technology to build meaningful solutions.*
-
 </div>
 
 ---
