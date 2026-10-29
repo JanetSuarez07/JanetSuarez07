@@ -1,106 +1,94 @@
 <div align="center">
 
-<img src="./banner-github.png" alt="Banner de Janet Suárez: Ingeniería Biomédica, análisis de datos, inteligencia artificial e investigación científica" width="100%">
-
-<br><br>
-
-### Biomedical Engineering
-
-**Data Analysis &nbsp;|&nbsp; Artificial Intelligence &nbsp;|&nbsp; Research**
-
-*Technology for a Healthier Future*
+<img src="./banner-github.png" alt="Janet Suárez — Biomedical Engineering, Data Analysis, Artificial Intelligence and Research" width="100%">
 
 <br>
 
-<a href="#about-me"><img src="https://img.shields.io/badge/About_Me-0F766E?style=for-the-badge&labelColor=0B1F3A" alt="Ir a la sección About Me"></a>
-<a href="#technologies"><img src="https://img.shields.io/badge/Technologies-0F766E?style=for-the-badge&labelColor=0B1F3A" alt="Ir a la sección Technologies"></a>
-<a href="#featured-projects"><img src="https://img.shields.io/badge/Featured_Projects-0F766E?style=for-the-badge&labelColor=0B1F3A" alt="Ir a la sección Featured Projects"></a>
-<a href="#education"><img src="https://img.shields.io/badge/Education-0F766E?style=for-the-badge&labelColor=0B1F3A" alt="Ir a la sección Education"></a>
-<a href="#contact"><img src="https://img.shields.io/badge/Contact-0F766E?style=for-the-badge&labelColor=0B1F3A" alt="Ir a la sección Contact"></a>
+<a href="#about-me"><img src="https://img.shields.io/badge/ABOUT_ME-0F766E?style=for-the-badge&labelColor=0B1F3A" alt="About Me"></a> <a href="#technologies"><img src="https://img.shields.io/badge/TECHNOLOGIES-0F766E?style=for-the-badge&labelColor=0B1F3A" alt="Technologies"></a> <a href="#featured-projects"><img src="https://img.shields.io/badge/PROJECTS-0F766E?style=for-the-badge&labelColor=0B1F3A" alt="Projects"></a> <a href="#education"><img src="https://img.shields.io/badge/EDUCATION-0F766E?style=for-the-badge&labelColor=0B1F3A" alt="Education"></a> <a href="#contact"><img src="https://img.shields.io/badge/CONTACT-0F766E?style=for-the-badge&labelColor=0B1F3A" alt="Contact"></a>
+
+<br><br>
+
+**Biomedical Engineering · Data Analysis · Artificial Intelligence**
+
+*Exploring technology to build meaningful solutions.*
 
 </div>
 
 ---
 
-## About Me
+<a id="about-me"></a>
 
-Biomedical Engineering student at Universidad Autónoma de Aguascalientes, interested in data analysis, artificial intelligence, and scientific research. I develop technological projects involving software development, data processing, and biomedical signal analysis, exploring computational approaches to real-world problems.
+## 👩🏻‍💻 About Me
+
+Biomedical Engineering student at Universidad Autónoma de Aguascalientes, interested in data analysis, artificial intelligence, and scientific research.
+
+I develop projects involving software, data processing, and biomedical signal analysis, combining engineering knowledge with computational tools to explore real-world problems.
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-**Interests**
+### 🔬 Research & Analysis
 
-- Data Analysis
-- Artificial Intelligence
-- Machine Learning
-- Biomedical Signal Processing
-
-</td>
-    <td width="50%" valign="top">
-
-**Also exploring**
-
-- Scientific Research
-- Software Development
-- Technological Innovation
+* Data Analysis
+* Machine Learning
+* Biomedical Signal Processing
+* Scientific Research
 
 </td>
-  </tr>
+<td width="50%" valign="top">
+
+### 💡 Technology
+
+* Artificial Intelligence
+* Software Development
+* Web Applications
+* Technological Innovation
+
+</td>
+</tr>
 </table>
 
 ---
 
-## Technologies
+<a id="technologies"></a>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+## 🛠️ Technologies & Tools
 
-**Programming Languages**
+### Programming
 
-<img src="https://img.shields.io/badge/Python-0B1F3A?style=flat-square&logo=python&logoColor=20CFCB" alt="Python">
-<img src="https://img.shields.io/badge/JavaScript-0B1F3A?style=flat-square&logo=javascript&logoColor=20CFCB" alt="JavaScript">
-<img src="https://img.shields.io/badge/C++-0B1F3A?style=flat-square&logo=cplusplus&logoColor=20CFCB" alt="C++">
-<img src="https://img.shields.io/badge/SQL-0B1F3A?style=flat-square&logo=mysql&logoColor=20CFCB" alt="SQL">
+<p>
+<img src="https://img.shields.io/badge/Python-0B1F3A?style=for-the-badge&logo=python&logoColor=20CFCB" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-0B1F3A?style=for-the-badge&logo=javascript&logoColor=20CFCB" alt="JavaScript">
+<img src="https://img.shields.io/badge/C%2B%2B-0B1F3A?style=for-the-badge&logo=cplusplus&logoColor=20CFCB" alt="C++">
+</p>
 
-</td>
-    <td width="50%" valign="top">
+### Data Analysis
 
-**Web Development**
+<p>
+<img src="https://img.shields.io/badge/Pandas-0B1F3A?style=for-the-badge&logo=pandas&logoColor=20CFCB" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-0B1F3A?style=for-the-badge&logo=numpy&logoColor=20CFCB" alt="NumPy">
+<img src="https://img.shields.io/badge/SQL-0F766E?style=for-the-badge&logo=mysql&logoColor=F4F8FB" alt="SQL">
+</p>
 
-<img src="https://img.shields.io/badge/HTML5-0F766E?style=flat-square&logo=html5&logoColor=F4F8FB" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-0F766E?style=flat-square&logo=css3&logoColor=F4F8FB" alt="CSS3">
-<img src="https://img.shields.io/badge/Flask-0F766E?style=flat-square&logo=flask&logoColor=F4F8FB" alt="Flask">
+### Web Development
 
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+<p>
+<img src="https://img.shields.io/badge/HTML5-0F766E?style=for-the-badge&logo=html5&logoColor=F4F8FB" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-0F766E?style=for-the-badge&logo=css3&logoColor=F4F8FB" alt="CSS3">
+<img src="https://img.shields.io/badge/Flask-0B1F3A?style=for-the-badge&logo=flask&logoColor=20CFCB" alt="Flask">
+</p>
 
-**Data Analysis**
+### Tools & Databases
 
-<img src="https://img.shields.io/badge/Pandas-0B1F3A?style=flat-square&logo=pandas&logoColor=20CFCB" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-0B1F3A?style=flat-square&logo=numpy&logoColor=20CFCB" alt="NumPy">
-<img src="https://img.shields.io/badge/Data_Processing-0F766E?style=flat-square" alt="Procesamiento de datos">
-<img src="https://img.shields.io/badge/Biomedical_Signal_Analysis-0F766E?style=flat-square" alt="Análisis de señales biomédicas">
-
-</td>
-    <td width="50%" valign="top">
-
-**Databases and Tools**
-
-<img src="https://img.shields.io/badge/Firebase-0F766E?style=flat-square&logo=firebase&logoColor=F4F8FB" alt="Firebase">
-<img src="https://img.shields.io/badge/Git-0F766E?style=flat-square&logo=git&logoColor=F4F8FB" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-0F766E?style=flat-square&logo=github&logoColor=F4F8FB" alt="GitHub">
-
-</td>
-  </tr>
-</table>
+<p>
+<img src="https://img.shields.io/badge/Firebase-0F766E?style=for-the-badge&logo=firebase&logoColor=F4F8FB" alt="Firebase">
+<img src="https://img.shields.io/badge/Git-0F766E?style=for-the-badge&logo=git&logoColor=F4F8FB" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-0F766E?style=for-the-badge&logo=github&logoColor=F4F8FB" alt="GitHub">
+</p>
 
 <details>
-<summary><b>Additional tools</b></summary>
+<summary><b>Additional tools and databases</b></summary>
 
 <br>
 
@@ -111,93 +99,129 @@ Biomedical Engineering student at Universidad Autónoma de Aguascalientes, inter
 
 ---
 
-## Featured Projects
+<a id="featured-projects"></a>
+
+## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>SGM-H</h3>
-      <p><b>Hospital service order management system</b></p>
-      <p>Web application developed during my social service at Hospital General Tercer Milenio to manage service orders related to hospital equipment maintenance.</p>
-      <p><b>Goal:</b> organize and track maintenance service orders.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-0B1F3A?style=flat-square&logo=javascript&logoColor=20CFCB" alt="JavaScript">
-        <img src="https://img.shields.io/badge/Firebase-0B1F3A?style=flat-square&logo=firebase&logoColor=20CFCB" alt="Firebase">
-      </p>
-      <a href="https://github.com/JanetSuarez07/SGM-H"><img src="https://img.shields.io/badge/View_Repository-0F766E?style=for-the-badge&logo=github&logoColor=F4F8FB&labelColor=0B1F3A" alt="Ver el repositorio SGM-H en GitHub"></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Analisis_Datos_Biomedicos-</h3>
-      <p><b>Biomedical data analysis with Python</b></p>
-      <p>Academic project from Tecnolochicas PRO focused on ECG signal analysis and the exploration of relationships between biometric parameters using Python.</p>
-      <p><b>Goal:</b> explore ECG signals and biometric parameters.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-0B1F3A?style=flat-square&logo=python&logoColor=20CFCB" alt="Python">
-        <img src="https://img.shields.io/badge/Data_Analysis-0F766E?style=flat-square" alt="Análisis de datos">
-      </p>
-      <a href="https://github.com/JanetSuarez07/Analisis_Datos_Biomedicos-"><img src="https://img.shields.io/badge/View_Repository-0F766E?style=for-the-badge&logo=github&logoColor=F4F8FB&labelColor=0B1F3A" alt="Ver el repositorio Analisis_Datos_Biomedicos- en GitHub"></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>BIO_PULSE</h3>
-      <p><b>ECG signal monitoring</b></p>
-      <p>Project for the acquisition, processing, and visualization of electrocardiographic signals, with a web interface to observe the signal in real time.</p>
-      <p><b>Goal:</b> acquire, process, and visualize ECG signals.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-0B1F3A?style=flat-square&logo=python&logoColor=20CFCB" alt="Python">
-        <img src="https://img.shields.io/badge/Flask-0B1F3A?style=flat-square&logo=flask&logoColor=20CFCB" alt="Flask">
-        <img src="https://img.shields.io/badge/HTML-0B1F3A?style=flat-square&logo=html5&logoColor=20CFCB" alt="HTML">
-        <img src="https://img.shields.io/badge/CSS-0B1F3A?style=flat-square&logo=css3&logoColor=20CFCB" alt="CSS">
-        <img src="https://img.shields.io/badge/JavaScript-0B1F3A?style=flat-square&logo=javascript&logoColor=20CFCB" alt="JavaScript">
-      </p>
-      <a href="https://github.com/JanetSuarez07/BIO_PULSE"><img src="https://img.shields.io/badge/View_Repository-0F766E?style=for-the-badge&logo=github&logoColor=F4F8FB&labelColor=0B1F3A" alt="Ver el repositorio BIO_PULSE en GitHub"></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>MONITOREO_EMG-</h3>
-      <p><b>EMG signal monitoring</b></p>
-      <p>Electromyographic signal monitoring project that integrates signal acquisition and visualization to explore signal behavior.</p>
-      <p><b>Goal:</b> acquire and visualize EMG signals.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-0B1F3A?style=flat-square&logo=python&logoColor=20CFCB" alt="Python">
-        <img src="https://img.shields.io/badge/Biomedical_Instrumentation-0F766E?style=flat-square" alt="Instrumentación biomédica">
-      </p>
-      <a href="https://github.com/JanetSuarez07/MONITOREO_EMG-"><img src="https://img.shields.io/badge/View_Repository-0F766E?style=for-the-badge&logo=github&logoColor=F4F8FB&labelColor=0B1F3A" alt="Ver el repositorio MONITOREO_EMG- en GitHub"></a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🏥 SGM-H</h3>
+
+**Hospital Service Order Management System**
+
+Web application developed during my social service at Hospital General Tercer Milenio to manage service orders related to hospital equipment maintenance.
+
+**Focus:** Web development and service order management.
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-0B1F3A?style=flat-square&logo=javascript&logoColor=20CFCB" alt="JavaScript">
+<img src="https://img.shields.io/badge/Firebase-0B1F3A?style=flat-square&logo=firebase&logoColor=20CFCB" alt="Firebase">
+</p>
+
+<a href="https://github.com/JanetSuarez07/SGM-H"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-0F766E?style=for-the-badge&logo=github&logoColor=F4F8FB&labelColor=0B1F3A" alt="Explore SGM-H"></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>📊 Biomedical Data Analysis</h3>
+
+**ECG Analysis with Python**
+
+Academic project developed during Tecnolochicas PRO, focused on ECG signal analysis and exploration of relationships between biometric parameters.
+
+**Focus:** Data processing and biomedical signal analysis.
+
+<p>
+<img src="https://img.shields.io/badge/Python-0B1F3A?style=flat-square&logo=python&logoColor=20CFCB" alt="Python">
+<img src="https://img.shields.io/badge/Data_Analysis-0F766E?style=flat-square" alt="Data Analysis">
+</p>
+
+<a href="https://github.com/JanetSuarez07/Analisis_Datos_Biomedicos-"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-0F766E?style=for-the-badge&logo=github&logoColor=F4F8FB&labelColor=0B1F3A" alt="Explore Biomedical Data Analysis"></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>❤️ BIO_PULSE</h3>
+
+**ECG Signal Monitoring**
+
+Project for the acquisition, processing, and visualization of electrocardiographic signals through a web interface.
+
+**Focus:** Biomedical instrumentation and signal visualization.
+
+<p>
+<img src="https://img.shields.io/badge/Python-0B1F3A?style=flat-square&logo=python&logoColor=20CFCB" alt="Python">
+<img src="https://img.shields.io/badge/Flask-0F766E?style=flat-square&logo=flask&logoColor=F4F8FB" alt="Flask">
+<img src="https://img.shields.io/badge/JavaScript-0B1F3A?style=flat-square&logo=javascript&logoColor=20CFCB" alt="JavaScript">
+</p>
+
+<a href="https://github.com/JanetSuarez07/BIO_PULSE"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-0F766E?style=for-the-badge&logo=github&logoColor=F4F8FB&labelColor=0B1F3A" alt="Explore BIO_PULSE"></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>⚡ EMG Monitoring</h3>
+
+**Electromyographic Signal Monitoring**
+
+Project integrating electromyographic signal acquisition and visualization to explore signal behavior.
+
+**Focus:** Signal acquisition and biomedical instrumentation.
+
+<p>
+<img src="https://img.shields.io/badge/Python-0B1F3A?style=flat-square&logo=python&logoColor=20CFCB" alt="Python">
+<img src="https://img.shields.io/badge/Biomedical_Instrumentation-0F766E?style=flat-square" alt="Biomedical Instrumentation">
+</p>
+
+<a href="https://github.com/JanetSuarez07/MONITOREO_EMG-"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-0F766E?style=for-the-badge&logo=github&logoColor=F4F8FB&labelColor=0B1F3A" alt="Explore EMG Monitoring"></a>
+
+</td>
+</tr>
 </table>
 
 ---
 
-## Education
+<a id="education"></a>
 
-- **Biomedical Engineering** — Universidad Autónoma de Aguascalientes
-- **Tecnolochicas PRO** — Data Science
-- **Samsung Innovation Campus** — 2026 training program
-- **Google** — Machine Learning Crash Course
+## 🎓 Education & Learning
+
+**Biomedical Engineering**
+Universidad Autónoma de Aguascalientes
 
 <details>
-<summary><b>Teaching experience</b></summary>
+<summary><b>Training and additional experience</b></summary>
 
 <br>
 
-- **Remote programming instructor** for teenagers at Tecnolochicas PRO.
+* **Tecnolochicas PRO:** Data Science.
+* **Samsung Innovation Campus:** 2026 training program.
+* **Google:** Machine Learning Crash Course.
+* **Teaching experience:** Remote programming instructor at Tecnolochicas PRO.
 
 </details>
 
 ---
 
-## Contact
+<a id="contact"></a>
 
-I am interested in learning, collaborating, and taking part in technology projects related to software development, data analysis, and artificial intelligence.
+## 📫 Let's Connect
+
+I'm interested in learning, collaborating, and contributing to projects involving data analysis, artificial intelligence, research, and software development.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/janet-suarez-hernandez-555797405/"><img src="https://img.shields.io/badge/LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=F4F8FB&labelColor=0B1F3A" alt="Perfil de Janet Suárez en LinkedIn"></a>
-<a href="https://github.com/JanetSuarez07"><img src="https://img.shields.io/badge/GitHub-0F766E?style=for-the-badge&logo=github&logoColor=F4F8FB&labelColor=0B1F3A" alt="Perfil de Janet Suárez en GitHub"></a>
+<a href="https://www.linkedin.com/in/janet-suarez-hernandez-555797405/"><img src="https://img.shields.io/badge/LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=F4F8FB&labelColor=0B1F3A" alt="Connect on LinkedIn"></a> <a href="https://github.com/JanetSuarez07"><img src="https://img.shields.io/badge/GitHub-0F766E?style=for-the-badge&logo=github&logoColor=F4F8FB&labelColor=0B1F3A" alt="Visit GitHub"></a>
 
 <br><br>
 
-<a href="#top"><img src="https://img.shields.io/badge/Back_to_top-20CFCB?style=flat-square&labelColor=0B1F3A" alt="Volver al inicio del README"></a>
+*Technology, data, and research to explore new possibilities.*
+
+<br>
+
+<a href="#top"><img src="https://img.shields.io/badge/BACK_TO_TOP-20CFCB?style=for-the-badge&labelColor=0B1F3A" alt="Back to top"></a>
 
 </div>
